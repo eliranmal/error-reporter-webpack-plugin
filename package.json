@@ -18,6 +18,9 @@
     "webpack",
     "plugin",
     "webpack-plugin",
+    "stats",
+    "statistics",
+    "diagnostics",
     "error",
     "reporter",
     "filter",
@@ -25,8 +28,7 @@
     "print",
     "cli",
     "tool",
-    "util",
-    "diagnostics"
+    "util"
   ],
   "author": "Eliran Malka",
   "license": "WTFPL",
