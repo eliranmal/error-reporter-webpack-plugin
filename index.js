@@ -1,3 +1,1 @@
-const ErrorReporterWebpackPlugin = require('./lib/error-reporter-webpack-plugin');
-
-module.exports = {ErrorReporterWebpackPlugin};
+module.exports = require('./lib/error-reporter-webpack-plugin');
