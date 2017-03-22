@@ -23,7 +23,6 @@
     "diagnostics",
     "error",
     "reporter",
-    "filter",
     "log",
     "print",
     "cli",
