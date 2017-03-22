@@ -1,0 +1,1 @@
+# error-reporter-webpack-plugin
