@@ -17,6 +17,7 @@
   "keywords": [
     "webpack",
     "plugin",
+    "webpack-plugin",
     "error",
     "reporter",
     "filter",
