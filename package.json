@@ -1,0 +1,32 @@
+{
+  "name": "error-reporter-webpack-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliranmal/error-reporter-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "error",
+    "reporter",
+    "filter",
+    "log",
+    "print",
+    "cli",
+    "tool",
+    "util",
+    "diagnostics"
+  ],
+  "author": "Eliran Malka",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/eliranmal/error-reporter-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/eliranmal/error-reporter-webpack-plugin#readme"
+}
