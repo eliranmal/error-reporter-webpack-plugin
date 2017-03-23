@@ -2,7 +2,10 @@
   "name": "error-reporter-webpack-plugin",
   "version": "0.2.0",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/error-reporter-webpack-plugin.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "bin/release.sh",
